@@ -4,6 +4,8 @@
   "wiki": "https://ja.scratch-wiki.info",
   "license": "CC0/Public Domain",
   "featured": {
+    "currentyear": "2018",
+    "currentmonth": "3",
     "2017": {
       "12": {
         "description": "ScratchキャットはScratchのマスコットで、新しいScratchプロジェクトを開いたときのデフォルトのスプライトである。ScratchキャットはMITの商標であり、Wing Nganによって描かれた。",
