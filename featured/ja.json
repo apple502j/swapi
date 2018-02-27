@@ -1,0 +1,36 @@
+{
+  "localizedLang": "日本語",
+  "lang": "ja",
+  "wiki": "https://ja.scratch-wiki.info",
+  "license": "CC0/Public Domain",
+  "featured": {
+    "2017": {
+      "12": {
+        "description": "ScratchキャットはScratchのマスコットで、新しいScratchプロジェクトを開いたときのデフォルトのスプライトである。ScratchキャットはMITの商標であり、Wing Nganによって描かれた。",
+        "imagesize": 100,
+        "image": "ファイル:Scratch Cat旧.png",
+        "article": "Scratchキャット"
+      }
+    },
+    "2018": {
+      "1": {
+        "imagesize": 150,
+        "image": "ファイル:Scratch3.0 12月22日.PNG",
+        "description": "Scratch 3.0はScratch 2.0の次のバージョンと勧告されているScratchである。GoogleはScratchと提携し、Google Blocklyのライブラリを元にしたScratch Blocksが使われる。Scratch 3.0では、新たにScratchJr風のブロックの水平接続が導入される。",
+        "article": "Scratch 3.0"
+      },
+      "2": {
+        "description": "ブロックは、Scratchのプログラムを組み立てるために使う部品で、ジグゾーパズルのようにつなげて使用する。それぞれのブロックは、役割（「イベントを受け取る」「命令を出す」「値を返す」「真偽を返す」「スクリプトの終わりを表す」など）によって異なる形をしている。",
+        "imagesize": 116,
+        "image": "ファイル:The shape of a Hat Block.png",
+        "article": "ブロック"
+      },
+      "3": {
+        "imagesize": 61,
+        "description": "緑の旗は、緑の旗がクリックされたときから始まるスクリプトを開始させるボタンである。Shiftキーとともに押すと、ターボモードが切り替えられる。この機能なしでもプロジェクトは作れるが、実用性の面から、多くの人がこの機能を利用している。",
+        "article": "緑の旗",
+        "image": "ファイル:緑の旗のボタン.png"
+      }
+    }
+  }
+}
